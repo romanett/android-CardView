@@ -2,10 +2,10 @@
 <pre-dex-items>
 
     <item
-        dex="/code/android/lmp-preview-dev/developers/samples/android/ui/views/CardView/Application/build/intermediates/pre-dexed/debug/classes-7f2c0b36d15c265a01ec1bf2135fbd68e2a7af40.jar"
-        jar="/code/android/lmp-preview-dev/developers/samples/android/ui/views/CardView/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0-rc1/classes.jar"
+        dex="C:\Users\Roman Ettlinger\AndroidStudioProjects\android-CardView\Application\build\intermediates\pre-dexed\debug\classes-e64ca42f213ccdfcbdb108f05cff3647794deeb8.jar"
+        jar="C:\Users\Roman Ettlinger\AndroidStudioProjects\android-CardView\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="25c58e61f70a3d78e5c5abcfc9db0555fc869b7d"/>
+        revision="21.0.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34"/>
 
 </pre-dex-items>
